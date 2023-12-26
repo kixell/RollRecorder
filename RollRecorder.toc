@@ -1,0 +1,10 @@
+## Interface: 90005
+## Title: RollRecorder
+## Author: YourName
+## Version: 1.0
+## Notes: Tracks and displays player rolls to see just how lucky a player has been
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: RollRecorderDB
+
+RollRecorder.lua
+RollRecorder.toc
